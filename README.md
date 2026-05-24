@@ -3,8 +3,13 @@
 <!-- Once CI is set up (Step 7), uncomment and update OWNER/REPO:
 [![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
 -->
+This is a first trial of Step 3 and onward in "thebasics" teaching bootcamp. For this example, we'll play with NBA play-by-play data from 1997-2025 available at: https://www.kaggle.com/datasets/szymonjwiak/nba-play-by-play-data-1997-2023
 
-Write one paragraph here to say: what this project is and what question it answers. Write it for someone who has never seen the project before. This repo is going to be the first deliverable you bring to the pod team meeting and then it can get filled out as you understand the project and develop things.
+The repo itself started with a template (https://github.com/davidelbert/project-template) and was created with a simple bash command:
+```
+gh repo create nba_teaching_repo --public --clone --template davidelbert/project-template
+```
+The repo is a deliverable for the next meeting with a collaborative group charged with learning to explore a dataset as a team.
 
 ## Quickstart
 

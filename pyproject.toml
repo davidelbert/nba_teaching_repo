@@ -5,9 +5,9 @@
 #   and [tool.hatch.build.targets.wheel].packages below.
 
 [project]
-name = "myproject"
+name = "nba_teaching_repo"
 version = "0.1.0"
-description = "One-line description of what this project does."
+description = "A teaching repo for learning team collaboration using versions controlled notebooks."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
